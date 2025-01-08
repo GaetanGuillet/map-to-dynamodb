@@ -1,1 +1,1 @@
-# csv-to-dynamodb
+# map-to-dynamodb
